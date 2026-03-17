@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code / IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Visual Studio / C++ build artifacts
+.vs/
+[Bb]in/
+[Oo]bj/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.ilk
+*.pdb
+*.idb
+*.recipe
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+~$*
+
+# Workspace/copilot helper assets (not part of solver source)
+.github/copilot/
+
+# OS files
+.DS_Store
+Thumbs.db

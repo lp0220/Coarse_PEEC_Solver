@@ -1,0 +1,7 @@
+Solver_SET 	0
+FS              0e9
+FE 	        10e9
+N_FP 	        200	
+DIM	        39370
+ER       	1.0
+$End_Def
